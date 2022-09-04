@@ -1,4 +1,4 @@
-# Project
+# Web Game (2020)
 
 In this project I used JavaScript (Canvas) and html in order to create a web game.<br>
 
